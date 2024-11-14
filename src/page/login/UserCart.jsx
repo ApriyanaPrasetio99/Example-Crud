@@ -47,7 +47,7 @@ function UserCart() {
 
   // Fungsi untuk handle Checkout
   const handleCheckout = () => {
-    alert("Checkout berhasil!");
+    // alert("Checkout berhasil!");
     navigate("/dashboard");
   };
 
